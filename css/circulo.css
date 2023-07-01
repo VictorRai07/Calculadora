@@ -1,0 +1,38 @@
+div{
+    height: 720px;
+    width: 420px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: seagreen;
+    padding-top: 30px;
+}
+button{
+    width: 380px;
+    height: 30px;
+    align-self: center;
+
+}
+h1{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+input{
+    width: 380px;
+    height: 35px;
+    align-self: center;
+    margin-bottom: 50px;
+}
+span{
+    width: 380px;
+    height: 50px;
+    background-color: orange;
+    align-self: center;
+    text-align: center;
+    padding-top: 45px;
+    margin-top: 50px;
+}
+a{
+    align-self: center;
+}
